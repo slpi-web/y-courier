@@ -1,0 +1,73 @@
+/* Mixin */
+
+.clearfix-mixin() {
+  zoom:1;
+  &:before, &:after{ content:""; display:table; }
+  &:after{ clear: both; }
+}
+
+.box-shadow (@style) {
+  box-shadow:           @style;
+  -webkit-box-shadow:   @style;
+  -moz-box-shadow:      @style;
+  -o-box-shadow:        @style;
+}
+
+/*
+.transform (@value) {
+  transform+_:          @value;
+  -webkit-transform+_:  @value;
+  -moz-transform+_:     @value;
+  -ms-transform+_:      @value;
+  -o-transform+_:       @value;
+}
+*/
+
+.transition (@property: all, @duration: 0s, @delay: 0s, @ease: ease-in-out) when (@property=transform) {
+  -webkit-transition: -webkit-transform @duration @delay @ease;
+  -moz-transition:    -moz-transform @duration @delay @ease;
+  -o-transition:      -o-transform @duration @delay @ease;
+  transition:         -ms-transform @duration @delay @ease, transform @duration @delay @ease;
+}
+
+.transition (@property: all, @duration: 0s, @delay: 0s, @ease: ease-in-out) when not (@property=transform) {
+  -webkit-transition: @arguments;
+  -moz-transition: @arguments;
+  -o-transition: @arguments;
+  transition: @arguments;
+}
+
+
+.border-radius (@radius: 5px) {
+  border-radius: @radius;
+  -webkit-border-radius: @radius;
+  -moz-border-radius: @radius;
+}
+
+.vertical-gradient (@start-color, @end-color) {
+  background: @start-color;
+  background: -moz-linear-gradient(top, @start-color 0%, @end-color 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,@start-color), color-stop(100%,@end-color));
+  background: -webkit-linear-gradient(top, @start-color 0%,@end-color 100%);
+  background: -o-linear-gradient(top, @start-color 0%,@end-color 100%);
+  background: -ms-linear-gradient(top, @start-color 0%,@end-color 100%);
+  background: linear-gradient(to bottom, @start-color 0%,@end-color 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@start-color', endColorstr='@end-color',GradientType=0 );
+}
+
+.text-shadow (@string: 0 1px 3px rgba(0, 0, 0, 0.25)) {
+  text-shadow: @string;
+}
+
+.box-sizing(@style) {
+  box-sizing: @style;
+  -webkit-box-sizing: @style;
+  -moz-box-sizing: @style;
+}
+
+.background-size(@style) {
+  background-size: @style;
+  -moz-background-size: @style;
+  -webkit-background-size: @style;
+  -o-background-size: @style;
+}

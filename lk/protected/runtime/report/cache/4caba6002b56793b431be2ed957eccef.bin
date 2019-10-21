@@ -1,0 +1,1 @@
+a:2:{i:0;a:11:{s:6:"report";s:1:"0";s:6:"period";s:1:"1";s:9:"startDate";s:10:"01.04.2016";s:7:"endDate";s:10:"30.04.2016";s:10:"startMonth";N;s:8:"endMonth";N;s:24:"cseDeliveryPaymentMethod";i:0;s:6:"format";s:1:"0";s:5:"model";s:11:"CseDelivery";s:14:"startTimestamp";i:1459458000;s:12:"endTimestamp";i:1462049999;}i:1;N;}

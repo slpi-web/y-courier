@@ -1,0 +1,109 @@
+
+
+.nt-form form input{
+	border: 1px solid #82B300;
+	height: 20px;
+	width: 328px;
+	border-radius: 7px;
+	padding: 10px;
+	margin: 10px 0 0 27px;
+
+}
+.nt-form form input[type=submit]{
+	border: none;
+	background: #82B300;
+	width: 160px;
+	height: 60px;
+	border-radius: 0px;
+	margin: 30px 0;
+	cursor: pointer;
+	color: #fff;
+	font-weight: bold;
+	font-size: 17px;
+}
+.nt-form form textarea{
+	border: 1px solid #82B300;
+	height: 90px;
+	width: 500px;
+	border-radius: 7px;
+	padding: 10px;
+}
+
+.nt-form h2{ 
+    line-height: 24px;
+    color: #383C47;
+    font-size: 20px;
+    text-align: left;
+    font-family: '__Open Sans_5';
+    font-weight: 600;
+    padding: 10px 0;
+}
+
+.nt-form h3{
+	padding-right: 20px;
+	line-height: 14px;
+    color: #383C47;
+    text-align: left;
+    font-family: '__Open Sans_5';
+    font-weight: 400;
+}
+
+.nt-bg{
+	width: 100%;
+	height: 1600px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	opacity: 0.5;
+	background: #383C47;
+	z-index: 10001;
+	display: none;
+}
+.thank-you-pages{
+	width: 600px;
+	height: 300px;
+	background: #fff;
+	position: absolute;
+	z-index: 100001;
+	top: 0;
+	left: 0;
+	display: none;
+
+}
+
+.thank-you-pages .clos{
+	position: absolute;
+	top: 0;
+	right: 0;
+	background: #82B300;
+	width: 40px;
+	height: 40px;
+	color: #fff;
+	font-size: 30px;
+	text-align: center;
+	line-height: 37px;
+	cursor: pointer;
+}
+
+.thank-you-pages h2{ 
+    line-height: 40px;
+    color: #383C47;
+    font-size: 28px;
+    text-align: left;
+    font-family: '__Open Sans_5';
+    font-weight: 600;
+    padding: 10px 0;
+    text-align: center;
+    margin: 69px 0 10px;
+}
+
+.thank-you-pages p{ 
+    line-height: 24px;
+    color: #7B7E86;
+    font-size: 19px;
+    text-align: left;
+    font-family: '__Open Sans_5';
+    font-weight: 600;
+    padding: 10px 0;
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+.tracking form {
+    font-size: 16px;
+    line-height: 1.2em;
+}
+
+.tracking form input {
+    border: 2px solid;
+}
+
+.tracking table {
+    width: 100%;
+    font-size: 16px;
+    line-height: 1.2em;
+}
+
+.tracking table thead td {
+    font-weight: bold;
+}
