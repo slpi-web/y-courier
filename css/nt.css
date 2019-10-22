@@ -7,10 +7,12 @@
 
 .nt-form{
 	position: absolute;
-	top: 150px;
+	top: 170px;    
+    margin-left: 110px;
+
 }
 
-.nt-form{}
+
 
 .nt-form form{
 
