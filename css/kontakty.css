@@ -49,7 +49,7 @@
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	margin-left: auto;
+	margin-left: 160px;
 	margin-right: auto;
 }
 
@@ -111,7 +111,7 @@
 {
 	z-index: 60;
 	min-height: 66px;
-    margin-top: -192px;
+    margin-top: -260px;
 	padding-bottom: 10px;
     
 }

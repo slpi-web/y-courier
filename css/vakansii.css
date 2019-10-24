@@ -21,7 +21,7 @@
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	margin-left: auto;
+	margin-left: 160px;
 	margin-right: auto;
 }
 
@@ -270,7 +270,7 @@
 {
 	z-index: 112;
 	min-height: 66px;
-	margin-top: -153px;
+	margin-top: -228px;
 }
 
 #u96-12

@@ -22,7 +22,7 @@
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	margin-left: auto;
+	margin-left: 160px;
 	margin-right: auto;
 }
 
@@ -163,7 +163,7 @@
 {
 	z-index: 209;
 	min-height: 66px;
-	margin: -155px;
+	margin: -225px;
     padding-bottom: 10px;
     background-color: #E9EDEF;
 }

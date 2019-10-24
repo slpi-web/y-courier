@@ -22,7 +22,7 @@
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	margin-left: auto;
+	margin-left: 160px;
 	margin-right: auto;
 }
 
@@ -101,7 +101,7 @@
 	z-index: 235;
 	min-height: 66px;
 	padding-bottom: 10px;
-    margin-top: -30px;
+    margin-top: -100px;
 }
 
 #u79_align_to_page,#u126_align_to_page
