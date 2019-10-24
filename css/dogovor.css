@@ -31,6 +31,12 @@
 	width: 0.01px;
 }
 
+#u126_align_to_page {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1140px;
+    left: -140px;
+}
 
 
 
@@ -136,7 +142,7 @@
 	min-height: 56px;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 722px;
+	
 }
 
 #u244-4
@@ -146,7 +152,7 @@
 	min-height: 56px;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 975px;
+
 }
 
 #u245-4
@@ -156,7 +162,7 @@
 	min-height: 56px;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 1118px;
+	
 }
 
 #u126-bw

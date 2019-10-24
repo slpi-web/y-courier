@@ -12,6 +12,7 @@
 {
 	background-color: #FFFFFF;
 }
+
 #u92-4
 {
 	z-index: 157;
@@ -118,10 +119,9 @@
 
 #u79_align_to_page,#u126_align_to_page
 {
-	margin-left: auto;
-	margin-right: auto;
-	width: 1140px;
-	left: -100px;
+	margin-left: 90px;
+	margin-right: ;
+
 }
 
 #u185-4

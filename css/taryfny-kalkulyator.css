@@ -13,6 +13,14 @@
 	background-color: #FFFFFF;
 }
 
+#u126_align_to_page {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1140px;
+    left: -100px;
+}
+
+
 #page
 {
 	z-index: 1;
@@ -61,8 +69,8 @@
 
 #u79,#u79-bw
 {
-	z-index: 203;
-	min-height: 65px;
+
+
 }
 
 #pu2084-4
@@ -96,20 +104,14 @@
 	font-weight: 400;
 }
 
-#u126
-{
-	z-index: 178;
-	min-height: 66px;
-	padding-bottom: 10px;
+#u126 {
+    z-index: 129;
+    min-height: 66px;
+    padding-bottom: 10px;
+    margin-top: 125px;
 }
 
-#u79_align_to_page,#u126_align_to_page
-{
-	margin-left: auto;
-	margin-right: auto;
-	width: 1140px;
-	left: -100px;
-}
+
 
 #u185-4
 {

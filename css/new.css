@@ -9,6 +9,10 @@
 
 }
 
+.fon-top{
+    margin-top: -69px;
+}
+
 .text-center {
     text-align: center !important;
 
@@ -71,12 +75,13 @@
 .lk-block{
     float: right;
     display: block;
-    background: #21610B;
+    background: #2B9526;
     padding: 20px;
     font-family: '__Open Sans_5';
     color: #FFFEFE;
     text-decoration: none;
     margin-left: -1000px;
+    margin-right: -55px;
     
 }
 #u92-4
