@@ -5,7 +5,8 @@
 	min-height: 56px;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 30px;
+    margin-left: 15px;
+
 }
 
 .text-center {
@@ -177,7 +178,8 @@ ul{
 	min-height: 56px;
 	/*margin-right: -10000px;*/
 	margin-top: 10px;
-	left: 130px;
+    margin-left: 215px;
+
 }
 
 #u242-4
@@ -187,7 +189,7 @@ ul{
 	min-height: 56px;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 290px;
+	left: 29;
 }
 .logo234{
     float:left;
@@ -213,7 +215,7 @@ ul{
 	min-height: 56px;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 470px;
+	left: 375px;
 }
 
 #u555-5
@@ -231,7 +233,7 @@ ul{
 	min-height: 56px;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 650px;
+	left: 555px;
 }
 
 #u555
@@ -246,7 +248,7 @@ ul{
 	min-height: 56px;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 810px;
+	left: 715px;
 }
 
 #u246-4
@@ -256,7 +258,7 @@ ul{
 	min-height: 56px;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 960px;
+	left: 865px;
 }
 
 #u245-4
@@ -266,5 +268,5 @@ ul{
 	min-height: 56px;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 1190px;
+	left: 1095px;
 }
