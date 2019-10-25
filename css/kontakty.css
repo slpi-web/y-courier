@@ -299,7 +299,7 @@
 	margin-left: auto;
 	margin-right: auto;
 	width: 1140px;
-	left: -100px;
+	left: -150px;
 	padding-top: 47px;
 	padding-bottom: 30px;
 }
@@ -320,13 +320,13 @@
 
 #u301
 {
-	width: 91px;
+	width: 65px;
 	padding-bottom: 15px;
 }
 
 #u301.MuseMenuActive
 {
-	width: 91px;
+	width: 65px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -337,7 +337,7 @@
 	min-height: 19px;
 	margin-right: -10000px;
 	top: 7px;
-	left: 13px;
+
 }
 
 #u301.MuseMenuActive #u304-4
@@ -351,15 +351,16 @@
 
 #u375
 {
-	width: 223px;
+	width: 132px;
 	min-height: 34px;
 	margin-right: -10000px;
-	left: 93px;
+	margin-left: 85px;
+    padding: 0 10px;
 }
 
 #u376
 {
-	width: 223px;
+	width: 132px;
 	padding-bottom: 15px;
 }
 
@@ -372,11 +373,10 @@
 
 #u378-4
 {
-	width: 197px;
-	min-height: 19px;
-	margin-right: -10000px;
+
+
 	top: 7px;
-	left: 13px;
+
 }
 
 #u376.MuseMenuActive #u378-4
@@ -390,15 +390,16 @@
 
 #u382
 {
-	width: 175px;
+	width: 112px;
 	min-height: 34px;
 	margin-right: -10000px;
-	left: 318px;
+	left: 240px;
+    padding: 0 5px;
 }
 
 #u383
 {
-	width: 175px;
+	width: 112px;
 	padding-bottom: 15px;
 }
 
@@ -411,11 +412,9 @@
 
 #u384-4
 {
-	width: 150px;
+	width: 112px;
 	min-height: 19px;
-	margin-right: -10000px;
 	top: 7px;
-	left: 12px;
 }
 
 #u383.MuseMenuActive #u384-4
@@ -429,32 +428,33 @@
 
 #u389
 {
-	width: 208px;
+	width: 132px;
 	min-height: 34px;
 	margin-right: -10000px;
-	left: 495px;
+	left: 365px;
+    padding: 0 5px;
 }
 
 #u390
 {
-	width: 208px;
+	width: 132px;
 	padding-bottom: 15px;
 }
 
 #u390.MuseMenuActive
 {
-	width: 208px;
+	width: 132px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u392-4
 {
-	width: 183px;
+	width: 132px;
 	min-height: 19px;
 	margin-right: -10000px;
 	top: 7px;
-	left: 12px;
+
 }
 
 #u390.MuseMenuActive #u392-4
@@ -468,32 +468,32 @@
 
 #u396
 {
-	width: 102px;
+	width: 132px;
 	min-height: 34px;
 	margin-right: -10000px;
-	left: 705px;
+	left: 515px;
 }
 
 #u399
 {
-	width: 102px;
+	width: 132px;
 	padding-bottom: 15px;
 }
 
 #u399.MuseMenuActive
 {
-	width: 102px;
+	width: 132px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u400-4
 {
-	width: 77px;
+	width: 132px;
 	min-height: 19px;
 	margin-right: -10000px;
 	top: 7px;
-	left: 12px;
+
 }
 
 #u399.MuseMenuActive #u400-4
@@ -507,12 +507,12 @@
 
 #u403
 {
-	width: 101px;
+	width: 80px;
 	min-height: 34px;
 	margin-right: -10000px;
-	left: 809px;
+	left: 650px;
+    padding: 0 5px;
 }
-
 #u406
 {
 	width: 101px;

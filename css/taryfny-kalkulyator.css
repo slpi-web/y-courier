@@ -1379,13 +1379,13 @@
 
 #u301
 {
-	width: 91px;
+	width: 65px;
 	padding-bottom: 15px;
 }
 
 #u301.MuseMenuActive
 {
-	width: 91px;
+	width: 65px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -1396,7 +1396,7 @@
 	min-height: 19px;
 	margin-right: -10000px;
 	top: 7px;
-	left: 13px;
+
 }
 
 #u301.MuseMenuActive #u304-4
@@ -1452,7 +1452,7 @@
 	width: 175px;
 	min-height: 34px;
 	margin-right: -10000px;
-	left: 318px;
+	left: 240px;
 }
 
 #u383
