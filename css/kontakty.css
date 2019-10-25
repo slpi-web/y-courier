@@ -50,7 +50,7 @@
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	margin-left: 160px;
+	margin-left: auto;
 	margin-right: auto;
 }
 
@@ -68,7 +68,7 @@
 	z-index: 92;
 	width: 190px;
 	min-height: 65px;
-	margin-right: -10000px;
+
 	left: 1050px;
 }
 
@@ -98,7 +98,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	left: 100px;
+	left: auto;
     margin-top: 100px;
 }
 
@@ -119,9 +119,10 @@
 
 #u79_align_to_page,#u126_align_to_page
 {
-	margin-left: 90px;
-	margin-right: ;
-
+	margin-left: auto;
+	margin-right: auto;
+	width: 1140px;
+	left: -100px;
 }
 
 #u185-4
